@@ -4032,9 +4032,21 @@ fieldset:disabled .btn {
 }
 .btn-neutral:disabled,
 .btn-neutral.disabled {
-    color: #183B56;
+    color: #ffffff;
     background-color: #ffffff;
     border-color: #ffffff;
+}
+.btn-red {
+    color: #ffffff;
+    background-color: ##FF6666;
+    border-color: ##FF6666;
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15), 0 1px 1px rgba(23, 31, 56, 0.075);
+}
+.btn-green {
+    color: #ffffff;
+    background-color: #21565c;
+    border-color: #21565c;
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15), 0 1px 1px rgba(23, 31, 56, 0.075);
 }
 .btn-dark {
     color: #ffffff;
