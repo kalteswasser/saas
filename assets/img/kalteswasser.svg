@@ -1,0 +1,20 @@
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg" stroke="null" style="vector-effect: non-scaling-stroke;">
+ <!-- Created with UXWing SVG Editor - https://uxwing.com/svg-icon-editor/ -->
+
+ <g stroke="null">
+  <title stroke="null">background</title>
+  <rect stroke="null" fill="none" id="canvas_background" height="514" width="514" y="-1" x="-1"/>
+  <g stroke="null" style="vector-effect: non-scaling-stroke;" display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g stroke="null">
+  <title stroke="null">Layer 1</title>
+  <style stroke="null" style="vector-effect: non-scaling-stroke;" transform="matrix(0.024971805334708996,0,0,0.024971805334708996,0,0) " type="text/css">.st0{fill:#5AAFFF;}
+	.st1{fill:#0084FF;}</style>
+  <path stroke="null" id="svg_5" d="m109.536014,142.649699c0.56362,71.989776 1.127241,143.979552 1.690861,215.989171c71.873865,-1.388998 129.681722,-46.630643 134.215191,-100.44439c4.999069,-59.409424 -56.141501,-114.453426 -135.906053,-115.544781z" class="st0"/>
+  <path stroke="null" id="svg_6" d="m397.619598,144.296654c-73.638242,-0.892927 -134.803317,47.900584 -134.901338,107.310008c-0.098021,59.627695 61.336612,108.619635 135.219906,107.587808c-0.098021,-71.632605 -0.196042,-143.265211 -0.318568,-214.897816z" class="st1"/>
+  <rect stroke="null" transform="matrix(2.450523852449466,0,0,1.984282695873978,-25292.097692240808,-20100.409765064953) " id="svg_7" height="28.21" width="117.7" class="st0" y="10142.915494" x="10365.79737"/>
+  <rect stroke="null" transform="matrix(2.450523852449466,0,0,1.984282695873978,-25292.097692240808,-20100.409765064953) " id="svg_8" height="28.21" width="117.7" class="st1" y="10344.845112" x="10366.205437"/>
+ </g>
+</svg>

@@ -1,0 +1,33 @@
+<svg width="700" height="700" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with UXWing SVG Editor - https://uxwing.com/svg-icon-editor/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="702" width="702" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <!-- Created with UXWing SVG Editor - https://uxwing.com/svg-icon-editor/ -->
+  <g stroke="null" id="svg_19">
+   <g stroke="null" transform="matrix(1.1551596266063193,0,0,1.3827862739703327,-1734.2239417623293,-2375.864803231999) " id="svg_16">
+    <title stroke="null" transform="translate(45.01542282104492,-5.7854204177856445) translate(-52.90764617919922,-57.82756042480469) translate(120.4615707397461,346.7930908203125) translate(1429.2115478515625,0) translate(0,1429.2115478515625) ">background</title>
+    <rect stroke="null" x="1540.780895" y="1711.391658" width="514" height="514" id="svg_14" fill="none"/>
+    <g stroke="null" id="svg_13" display="none">
+     <rect stroke="null" id="svg_17" width="700" height="700" x="1541.780895" y="1712.391658" stroke-width="0" fill="url(#gridpattern)"/>
+    </g>
+   </g>
+   <g stroke="null" transform="matrix(1.1551596266063193,0,0,1.3827862739703327,-1734.2239417623293,-2375.864803231999) " id="svg_18">
+    <title stroke="null" transform="translate(45.01542282104492,-5.7854204177856445) translate(-52.90764617919922,-57.82756042480469) translate(120.4615707397461,346.7930908203125) translate(1429.2115478515625,0) translate(0,1429.2115478515625) ">Layer 1</title>
+    <style stroke="null" transform="translate(45.01542282104492,-5.7854204177856445) translate(-52.90764617919922,-57.82756042480469) translate(120.4615707397461,346.7930908203125) translate(1429.2115478515625,0) translate(0,1429.2115478515625) " type="text/css">.st0{fill:#5AAFFF;}
+	.st1{fill:#0084FF;}</style>
+    <path stroke="null" class="st0" d="m1651.316905,1855.041358c0.56362,71.98978 1.12724,143.97955 1.69086,215.98917c71.87387,-1.389 129.68173,-46.63064 134.2152,-100.44439c4.99907,-59.40942 -56.1415,-114.45343 -135.90606,-115.54478z" id="svg_12"/>
+    <path stroke="null" class="st1" d="m1939.400495,1856.688308c-73.63824,-0.89292 -134.80332,47.90059 -134.90134,107.31001c-0.09802,59.6277 61.33661,108.61964 135.21991,107.58781c-0.09802,-71.63261 -0.19605,-143.26521 -0.31857,-214.89782z" id="svg_11"/>
+    <rect stroke="null" x="10994.961168" y="11005.893164" class="st0" width="117.7" height="28.21" id="svg_10" transform="matrix(2.450523852449466,0,0,1.984282695873978,-25292.097692240808,-20100.409765064953) "/>
+    <rect stroke="null" x="10995.369235" y="11207.822782" class="st1" width="117.7" height="28.21" id="svg_9" transform="matrix(2.450523852449466,0,0,1.984282695873978,-25292.097692240808,-20100.409765064953) "/>
+   </g>
+  </g>
+ </g>
+</svg>
